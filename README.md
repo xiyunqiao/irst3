@@ -1,4 +1,4 @@
-Hi, I am Yunqiao. I am now studying for phd in Harbin Institute of Technology, and I studied in Harbin Institute of Technology (Weihai) and Beijing Institute of Technology before. And I worked as an engineer in CETC and NAURA a few years ago.
+Hi, I am Yunqiao. I am now studying for phd in Harbin Institute of Technology, and I studied in Harbin Institute of Technology (Weihai) and Beijing Institute of Technology before. And I worked as an engineer in CETC and NAURA a few years ago, respectively.
 
 I feel pleased to discuss with you in infrared image imaging and procesing research and hoping that we can get progress together. 
 
