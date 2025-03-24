@@ -2,4 +2,4 @@ Hi, I am Yunqiao. I am now studying for phd in Harbin Institute of Technology, a
 
 I feel pleased to discuss with you in infrared imaging and image processing research and hoping that we can get progress together. 
 
-Please use this code to put in the code series of DNANET for more performance test and comparable work. Thanks very much for the author Boyang Li to open this network and framework. https://github.com/YeRen123455/Infrared-Small-Target-Detection.
+Please use this code to put in the code series of DNANET for more performance test and comparable work. Thanks very much for the author  to open this network and framework. https://github.com/YeRen123455/Infrared-Small-Target-Detection.
